@@ -5,22 +5,28 @@
 
 - 🌱 i’m currently learning full stack web developemnt
 - 👯 i’m looking to contribute to open source projects
-- 🌐 here's a link to **[my portfolio](https://#)**
+- 🌐 here's **[my portfolio](https://#)**
 
 
-## Connect with me:
+## find me on:
 
-[<img align="left" alt="notgirish | linkedin" width="40" style="vertical-align:top; margin:4px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="notgirish | twitter" width="40" style="vertical-align:top; margin:4px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
-[<img align="left" alt="notgirish | behance" width="40" style="vertical-align:top; margin:4px" src="https://img.icons8.com/color/48/000000/behance.png" />][behance]
+feel free to ping me if you have any projects you'd like me to be a part of!
+
+<p align="left"> 
+<a href="https://www.linkedin.com/in/notgirish/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" title="LinkedIn" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
+<a href="https://twitter.com/notgirish" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/twitter.png" title="Twitter" alt="Twitter" height="40" style="vertical-align:top; margin:4px"></a>
+<a href="https://www.behance.net/notgirish" target="_blank"> <img src="https://img.icons8.com/color/48/000000/behance.png" title="Behance" alt="Behance" height="40" style="vertical-align:top; margin:4px"></a> 
+<a href="https://#" target="_blank"> <img src="https://icon-library.com/images/65b3db429c_64716.png" title="Personal Website" alt="Personal Website" height="40" style="vertical-align:top; margin:4px"></a>  
+</p>
+
 
 <br />
 <br />
 
-## Languages and Tools:
+## languages and tools:
 
 <p align="left">
-<img src="https://simple.wikipedia.org/wiki/C_(programming_language)#/media/File:C_Programming_Language.svg.png" alt="C" title="C" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" title="C" height="40" style="vertical-align:top; margin:4px">
 <img src="https://www.shareicon.net/data/512x512/2016/09/23/833700_windows_512x512.png" alt="Java" title="Java" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" title="HTML" height="40" style="vertical-align:top; margin:4px"> 
 <img src="https://logodix.com/logo/1111652.png" alt="CSS" title="CSS" height="40" style="vertical-align:top; margin:4px"> 
@@ -48,6 +54,4 @@
 
 <img alt="notigirsh's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notgirish&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 
-[linkedin]: https://www.linkedin.com/in/notgirish/
-[twitter]: https://twitter.com/notgirish
-[behance]: https://www.behance.net/notgirish
+![](https://visitor-badge.laobi.icu/badge?page_id=notgirish.notgirish) 
