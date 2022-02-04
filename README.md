@@ -1,12 +1,15 @@
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> hey there, i'm not girish 😉
 - a developer and designer
 
+<br />
+
 ## about me
 
 - 🌱 i’m currently learning full stack web developemnt
 - 👯 i’m looking to contribute to open source projects
 - 🌐 here's **[my portfolio](https://#)**
 
+<br />
 
 ## find me on:
 
