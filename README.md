@@ -19,8 +19,6 @@ feel free to ping me if you have any projects you'd like me to be a part of!
 <a href="https://#" target="_blank"> <img src="https://icon-library.com/images/65b3db429c_64716.png" title="Personal Website" alt="Personal Website" height="40" style="vertical-align:top; margin:4px"></a>  
 </p>
 
-
-<br />
 <br />
 
 ## languages and tools:
@@ -42,9 +40,6 @@ feel free to ping me if you have any projects you'd like me to be a part of!
 </p>
 
 <br />
-<br />
-
----
 
 ## github stats
 
