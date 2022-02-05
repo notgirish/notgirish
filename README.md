@@ -48,8 +48,9 @@ feel free to ping me if you have any projects you'd like me to be a part of!
 
 <img align="center" alt="notgirish's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=notgirish&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
 
-<img alt="notigirsh's github stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=notgirish&count_private=true&show_icons=true&theme=react&hide_border=true" />
+![](https://github-readme-stats.vercel.app/api?username=notgirish&count_private=true&show_icons=true&theme=react&hide_border=true)
 
 <img alt="notigirsh's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notgirish&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=notgirish.notgirish) 
+
