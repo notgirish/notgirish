@@ -1,9 +1,5 @@
 ## hey there, i'm not girish 😉
 
-<br />
-
-## about me
-
 - 🌱 i'm a designer & developer
 - 🌐 here's **[my portfolio](https://www.behance.net/notgirish)**
 
