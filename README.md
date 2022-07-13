@@ -1,7 +1,8 @@
 ## hey there, i'm not girish 😉
 
-- 🌱 i'm a designer & developer
-- 🌐 here's **[my portfolio](https://www.behance.net/notgirish)**
+- 🌱 i'm a designer & developer.
+- 🌐 here's **[my portfolio](https://notgirish.netlify.app/)**.
+- 🌐 same **[portfolio](https://notgirish.github.io/)** but lighter version.
 
 <br />
 
@@ -10,6 +11,7 @@
 feel free to ping me if you have any projects you'd like me to be a part of!
 
 <p align="left"> 
+<a href="https://notgirish.netlify.app/" target="_blank"> <img src="https://icon-library.com/images/65b3db429c_64716.png" title="Personal Website" alt="Personal Website" height="40" style="vertical-align:top; margin:4px"></a>  
 <a href="https://www.linkedin.com/in/notgirish/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" title="LinkedIn" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://www.behance.net/notgirish" target="_blank"> <img src="https://img.icons8.com/color/48/000000/behance.png" title="Behance" alt="Behance" height="40" style="vertical-align:top; margin:4px"></a> 
 </p>
